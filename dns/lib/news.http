@@ -1,0 +1,8 @@
+Get http://kaftech.org/keswa-api/product/getProduct?shareURL=https://api-shein.shein.com/h5/sharejump/appsharejump%26lan=en%26id=1010834%26share_type=goods%26site=andshsa HTTP/1.1
+
+###
+Get http://kaftech.org/keswa-api/ref/getAllRefData/RefPriceConfigCategory HTTP/1.1
+###
+Get http://kaftech.org/keswa-api/product/getFinalPrice?categoryCode=1765&salePrice=80 HTTP/1.1
+###
+Get http://kaftech.org/keswa-api/ref/getAllRefData/RefProductSize?parentRefCode=2030

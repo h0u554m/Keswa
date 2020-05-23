@@ -1,0 +1,12 @@
+Exam_id (unique identifier/mandatory) not visible in form but being passed in API
+Year (from financial_years) drop down (mandatory)
+Class Name (from courses) drop down
+Section (from batches ) drop down
+Exam_Type (from particular) drop down (mandatory)
+Subjects ( from subjects ) drop down (mandatory)
+Date and Time of Exam (Date/Time Picker) (mandatory)
+Result_Date (Date Picker)
+Details (Free Text)
+Maximum_Marks ( Number)
+Passing_Marks (Number)
+Special_Instructions (free Text)

@@ -1,0 +1,19 @@
+0:"productId" -> "855954"
+key:"productId"
+value:"855954"
+1:"productName" -> "3D Applique Rhinestone Beaded Mesh Bodice Jumpsuit Without Bra"
+key:"productName"
+value:"3D Applique Rhinestone Beaded Mesh Bodice Jumpsuit Without Bra"
+2:"shareURL" -> "https://api-shein.shein.com/h5/sharejump/appsharejump?lan=en&id=855954&share_type=outfit"
+key:"shareURL"
+value:"https://api-shein.shein.com/h5/sharejump/appsharejump?lan=en&id=855954&share_type=outfit"
+3:"retailPrice" -> 79.0
+key:"retailPrice"
+value:79.0
+4:"usdRetailPrice" -> 21.04
+key:"usdRetailPrice"
+value:21.04
+5:"salePrice" -> 60.0
+key:"salePrice"
+value:60.0
+

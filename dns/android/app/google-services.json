@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "413117479038",
+    "firebase_url": "https://houssam-c3f7a.firebaseio.com",
+    "project_id": "houssam-c3f7a",
+    "storage_bucket": "houssam-c3f7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413117479038:android:aa45f4ccf644220e7a402f",
+        "android_client_info": {
+          "package_name": "com.example.dns"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413117479038-kdusfl29qne2tr9hdag78ielm7t0vtdj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu__dyPMs_x4jxKVDLz2p7r72uudjUGO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413117479038-a5d7gvvvcfivs4bcrsvikfedie1ke7r4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
